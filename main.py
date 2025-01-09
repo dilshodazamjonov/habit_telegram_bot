@@ -20,7 +20,7 @@ TIPS = [
     "💡 Review your progress weekly to stay on track."
 ]
 
-TOKEN = '8034732857:AAGMeZa0ZHziQul4uMfshX28GEe3v7bMBtc'
+TOKEN = ''
 
 bot = Bot(TOKEN)
 dp = Dispatcher()
